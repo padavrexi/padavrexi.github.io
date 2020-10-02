@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on padavrexi</title>
+    <link>https://padavrexi.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on padavrexi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 16:15:39 +0300</lastBuildDate>
+    
+	<atom:link href="https://padavrexi.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main</title>
+      <link>https://padavrexi.github.io/posts/main/</link>
+      <pubDate>Fri, 02 Oct 2020 16:15:39 +0300</pubDate>
+      
+      <guid>https://padavrexi.github.io/posts/main/</guid>
+      <description>#CV
+ Cool stuff Other cool stuff Lots of cool stuff  </description>
+    </item>
+    
+  </channel>
+</rss>
