@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inspired_by_gtzakis.com on /home/nkallergis/</title>
+    <link>https://padavrexi.github.io/tags/inspired_by_gtzakis.com/</link>
+    <description>Recent content in inspired_by_gtzakis.com on /home/nkallergis/</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Nov 2020 14:23:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://padavrexi.github.io/tags/inspired_by_gtzakis.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>/home/nkallergis/bio/about</title>
+      <link>https://padavrexi.github.io/bio/about/</link>
+      <pubDate>Fri, 06 Nov 2020 14:23:09 +0200</pubDate>
+      
+      <guid>https://padavrexi.github.io/bio/about/</guid>
+      <description> Unified Skillset primarily focused on networking
+Worked as  Network Field Engineer Network Presales Engineer Network Design Engineer Network Automation Engineer  Experienced in  Routing Switching Security Wireless IP Telephony Automation/orchestration Microsoft Azure  Interested in  Automation/Orchestration Network Virtualization NetOps  Tools of choice  VSCode Wireshark Whiteboard Ansible Python Nornir NetBox NAPALM  </description>
+    </item>
+    
+  </channel>
+</rss>
