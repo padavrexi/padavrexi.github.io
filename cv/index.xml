@@ -1,23 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cvs on padavrexi</title>
+    <title>Cvs on /home/nkallergis/</title>
     <link>https://padavrexi.github.io/cv/</link>
-    <description>Recent content in Cvs on padavrexi</description>
+    <description>Recent content in Cvs on /home/nkallergis/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2020 16:15:39 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 14:23:09 +0200</lastBuildDate>
     
 	<atom:link href="https://padavrexi.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CV</title>
-      <link>https://padavrexi.github.io/cv/main/</link>
-      <pubDate>Fri, 02 Oct 2020 16:15:39 +0300</pubDate>
+      <title>/home/nkallergis/cv/about</title>
+      <link>https://padavrexi.github.io/cv/about/</link>
+      <pubDate>Fri, 06 Nov 2020 14:23:09 +0200</pubDate>
       
-      <guid>https://padavrexi.github.io/cv/main/</guid>
-      <description> Stuff I&amp;rsquo;ve done  Cool stuff Other cool stuff Lots of cool stuff  </description>
+      <guid>https://padavrexi.github.io/cv/about/</guid>
+      <description> Unified Skillset primarily focused on networking
+Worked as  Network Field Engineer Network Presales Engineer Network Design Engineer Network Automation Engineer  Experienced in  Routing Switching Security Wireless IP Telephony Automation/orchestration Microsoft Azure  Interested in  Automation/Orchestration Network Virtualization NetOps  Tools of choice  VSCode Wireshark Whiteboard Ansible Python Nornir NetBox NAPALM  </description>
+    </item>
+    
+    <item>
+      <title>/home/nkallergis/cv/education</title>
+      <link>https://padavrexi.github.io/cv/education/</link>
+      <pubDate>Fri, 06 Nov 2020 13:53:54 +0200</pubDate>
+      
+      <guid>https://padavrexi.github.io/cv/education/</guid>
+      <description> Formal education  Technological Educational Institute of Athens: Dpt of Informatics  Seminars, webinars and courses  &amp;ldquo;Building network automation solutions&amp;rdquo; (ipspace.net)  Certifications  AZ-300 Microsoft Azure Architect Technologies CCSA Check Point Certified Security Administrator CCSE Check Point Certified Security Expert CCNA Cisco Certified Network Associate - Routing and Switching CCIE Cisco Certified Internetwork Expert - R&amp;amp;S (written exam only) CCP-N Citrix Certified Professional - Networking CC-SDWAN Citrix NetScaler SD-WAN Certified  Languages  Greek (native) English (full proficiency) French (limited proficiency) Spanish (limited proficiency)  </description>
+    </item>
+    
+    <item>
+      <title>/home/nkallergis/cv/experience</title>
+      <link>https://padavrexi.github.io/cv/experience/</link>
+      <pubDate>Fri, 06 Nov 2020 13:53:54 +0200</pubDate>
+      
+      <guid>https://padavrexi.github.io/cv/experience/</guid>
+      <description>Professional services architect at UniSystems November 2019 - present
+As a result of the above and in conjunction with the experience I&amp;rsquo;ve gathered from all my previous positions, my title was changed to &amp;ldquo;Architect&amp;rdquo;. Along with it, my main focus has also shifted mostly towards automation/orchestration and cloud projects for large entities (EU institutions, banks, public sector). In short, I&amp;rsquo;m spending more time in front of VSCode and Azure portal instead of SecureCRT and WireShark.</description>
+    </item>
+    
+    <item>
+      <title>/home/nkallergis/cv/projects</title>
+      <link>https://padavrexi.github.io/cv/projects/</link>
+      <pubDate>Fri, 06 Nov 2020 13:53:54 +0200</pubDate>
+      
+      <guid>https://padavrexi.github.io/cv/projects/</guid>
+      <description>Fleet security for NEDA Maritime April 2016 - May 2017
+Design and deploy Check Point security solution for approximately 30 vessels over satellite networks.
+Network support for Alma Bank April 2016 - May 2017
+Network and security support of everyday operations. Cisco WAN &amp;amp; LAN networking, Palo Alto firewalls, Microsoft Active Directory &amp;amp; VDI.
+Network Management for Coral (ex Shell Greece) &amp;amp; Motor Oil Hellas Aug 2010 – June 2017</description>
     </item>
     
   </channel>

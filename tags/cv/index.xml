@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>/home/nkallergis/</title>
-    <link>https://padavrexi.github.io/</link>
-    <description>Recent content on /home/nkallergis/</description>
+    <title>cv on /home/nkallergis/</title>
+    <link>https://padavrexi.github.io/tags/cv/</link>
+    <description>Recent content in cv on /home/nkallergis/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Nov 2020 14:23:09 +0200</lastBuildDate>
     
-	<atom:link href="https://padavrexi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://padavrexi.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -51,15 +51,6 @@ Technical lead expert for Network &amp;amp; Security Automation Team. Zero-touch
 Alpha Bank Azure Stack Hub integration project October 2019 - November 2020
 Integration of Azure Stack Hub into the bank&amp;rsquo;s traditional data centre. Used Check Point S2S VPN to Cisco ASA. Custom failover/resiliency mechanism using Ansible and Python.
 ESMA Migration to Azure October 2018 - May 2020</description>
-    </item>
-    
-    <item>
-      <title>20201002</title>
-      <link>https://padavrexi.github.io/posts/20201002/</link>
-      <pubDate>Fri, 02 Oct 2020 16:31:35 +0300</pubDate>
-      
-      <guid>https://padavrexi.github.io/posts/20201002/</guid>
-      <description>Lots of SZXII stuff!</description>
     </item>
     
   </channel>
